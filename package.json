@@ -1,0 +1,22 @@
+{
+  "name": "pale-moon",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/gleydson/PaleMoon",
+  "author": "Gleydson Rodrigues <gleydsonsr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron .",
+    "build": "sucrase ./src -d ./dist --transforms imports",
+    "clean:modules": "rm -Rf node_modules && yarn cache clean && yarn"
+  },
+  "devDependencies": {
+    "electron": "^6.0.12",
+    "eslint": "6.2.2",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0",
+    "nodemon": "^1.19.3",
+    "prettier": "^1.18.2"
+  }
+}
