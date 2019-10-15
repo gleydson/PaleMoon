@@ -4,7 +4,7 @@
 Pale Moon
 </h1>
 
-<p align="center">Game based from the old creeypasta Pale Moon</p>
+<p align="center">Game based from the old creepypasta Pale Moon</p>
 
 <p align="center">
   <a href="https://github.com/gleydson/PaleMoon/graphs/contributors">
