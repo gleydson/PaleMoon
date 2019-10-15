@@ -1,6 +1,7 @@
 <h1 align="center">
 <br>
-  <img src="assets/pale-moon.jpg" alt="Pale Moon" width="150">
+  <img src="assets/pale-moon.png" alt="Pale Moon" width="150">
+<br>
 <br>
 Pale Moon
 </h1>
