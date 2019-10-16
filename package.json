@@ -12,11 +12,13 @@
     "clean:modules": "rm -Rf node_modules && yarn cache clean && yarn"
   },
   "devDependencies": {
-    "electron": "^6.0.12",
     "eslint": "6.2.2",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-import": "^2.18.0",
     "nodemon": "^1.19.3",
     "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "electron": "^6.0.12"
   }
 }

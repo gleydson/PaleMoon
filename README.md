@@ -8,10 +8,10 @@ Pale Moon
 
 <p align="center">
   <a href="https://github.com/gleydson/PaleMoon/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/gleydson/PaleMoon?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/gleydson/PaleMoon?color=%235D85C4&logoColor=%235D85C4&style=flat" alt="Contributors">
   </a>
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/gleydson/PaleMoon?color=%237159c1&logo=mit" alt="License">
+    <img src="https://img.shields.io/github/license/gleydson/PaleMoon?color=%235D85C4&logo=mit" alt="License">
   </a>
 </p>
 
